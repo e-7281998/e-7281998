@@ -1,7 +1,6 @@
  
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE69A,100:D4FAFC&height=300&section=header&text=HELLO&fontSize=60) -->
- ## **e-7281998**  
- ## **기술** <br/> 
+ ## **SKILL** <br/> 
  
 **FRONT** <br/><br/>
 
