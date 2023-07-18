@@ -25,7 +25,7 @@
  **PERSONAL**
     <br/>
      🔖 [방송 정보 조회 프로그램 - JAVA, ORACLE, JDBC](https://github.com/e-7281998/jdbcBroadProject)  <br/>
-     🔖 [운동정보 기록 사이트 - REACT](https://github.com/e-7281998/exercise-record) 
+     🔖 [운동정보 기록 사이트 - REACT, Styled Component](https://github.com/e-7281998/exercise-record) 
      
 **TEAM**
     <br/>
