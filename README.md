@@ -1,6 +1,12 @@
+ ## **🪪CERTIFICATE** <br/>
+ 📌 SQLD (2023.07)<br/>
+ 📌 웹디자인기능사 (2021.12)<br/>
+ 📌 정보처리기사 (2020.12)<br/>
+ 📌 네트워크관리사 2급 (2019.12)
+
+ <br/>
  
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE69A,100:D4FAFC&height=300&section=header&text=HELLO&fontSize=60) -->
- ## **SKILL** <br/> 
+ ## **👩🏻‍💻SKILL** <br/> 
  
 **FRONT** <br/><br/>
 
@@ -12,4 +18,16 @@
 
 **DB**<br/><br/>
 <img alt="oracle" src ="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/> <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
+ <br/>
  
+ ## **📂PROJECT** <br/> 
+ **PERSONAL**
+    <br/>
+     🔖 [방송 정보 조회 프로그램 - JAVA, ORACLE, JDBC](https://github.com/e-7281998/jdbcBroadProject)  <br/>
+     🔖 [운동정보 기록 사이트 - REACT](https://github.com/e-7281998/exercise-record) 
+     
+**TEAM**
+    <br/>
+     🔖 [신디타운 - JAVA, MySQL, Servlet, JDBC, Apache Tomcat, JSP, HTML, CSS, Jquery, javscript](https://github.com/e-7281998/shinDTown) <br/>
+     🔖 [OTTC - REACT, JAVA, SpringBoot, Gradle, ORACLE, JPA](https://github.com/e-7281998/OneTimeTripCard) 
