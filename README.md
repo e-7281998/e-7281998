@@ -33,6 +33,6 @@
      
 **TEAM**
     <br/>
-     🔖 [맡겨조 - REACT, JAVA, SpringBoot, Maven, MySQL, JPA, Recoil](https://github.com/e-7281998/Petmin-client) <br/>
-     🔖 [신디타운 - JAVA, MySQL, Servlet, JDBC, Apache Tomcat, JSP, HTML, CSS, Jquery, javscript](https://github.com/e-7281998/shinDTown) <br/>
-     🔖 [OTTC - REACT, JAVA, SpringBoot, Gradle, ORACLE, JPA, contextAPI](https://github.com/e-7281998/OneTimeTripCard) 
+     🔖 [동네 기반 반려견 돌봄 사이트 - REACT, JAVA, SpringBoot, Maven, MySQL, JPA, Recoil](https://github.com/e-7281998/Petmin-client) <br/>
+     🔖 [신한DS 금융SW 아카데미 커뮤니티 플랫폼 - JAVA, MySQL, Servlet, JDBC, Apache Tomcat, JSP, HTML, CSS, Jquery, javscript](https://github.com/e-7281998/shinDTown) <br/>
+     🔖 [외국인 대상 일회용 여행 선불카드 사이트 - REACT, JAVA, SpringBoot, Gradle, ORACLE, JPA, contextAPI](https://github.com/e-7281998/OneTimeTripCard) 
