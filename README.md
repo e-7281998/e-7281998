@@ -28,9 +28,11 @@
  **PERSONAL**
     <br/>
      🔖 [방송 정보 조회 프로그램 - JAVA, ORACLE, JDBC](https://github.com/e-7281998/jdbcBroadProject)  <br/>
+     🔖 [채팅 어플리케이션 - Nextron, Firebase, socket.io](https://github.com/e-7281998/nextron_chat)  <br/>
      🔖 [운동정보 기록 사이트 - REACT, Styled Component](https://github.com/e-7281998/exercise-record) 
      
 **TEAM**
     <br/>
+     🔖 [맡겨조 - REACT, JAVA, SpringBoot, Maven, MySQL, JPA, Recoil](https://github.com/e-7281998/Petmin-client) <br/>
      🔖 [신디타운 - JAVA, MySQL, Servlet, JDBC, Apache Tomcat, JSP, HTML, CSS, Jquery, javscript](https://github.com/e-7281998/shinDTown) <br/>
-     🔖 [OTTC - REACT, JAVA, SpringBoot, Gradle, ORACLE, JPA](https://github.com/e-7281998/OneTimeTripCard) 
+     🔖 [OTTC - REACT, JAVA, SpringBoot, Gradle, ORACLE, JPA, contextAPI](https://github.com/e-7281998/OneTimeTripCard) 
