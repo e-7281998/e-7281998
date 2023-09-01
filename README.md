@@ -27,9 +27,9 @@
  ## **📂PROJECT** <br/> 
  **PERSONAL**
     <br/>
-     🔖 [방송 정보 조회 프로그램 - JAVA, ORACLE, JDBC](https://github.com/e-7281998/jdbcBroadProject)  <br/>
+     🔖 [운동정보 기록 사이트 - REACT, Styled Component](https://github.com/e-7281998/exercise-record)   <br/>
      🔖 [채팅 어플리케이션 - Nextron, Firebase, socket.io](https://github.com/e-7281998/nextron_chat)  <br/>
-     🔖 [운동정보 기록 사이트 - REACT, Styled Component](https://github.com/e-7281998/exercise-record) 
+     🔖 [방송 정보 조회 프로그램 - JAVA, ORACLE, JDBC](https://github.com/e-7281998/jdbcBroadProject)
      
 **TEAM**
     <br/>
