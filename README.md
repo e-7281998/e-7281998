@@ -1,6 +1,3 @@
-⭐ [React로 만든 포트폴리오 사이트](https://e-7281998.github.io/profile/) 
-
-
  ## **🪪CERTIFICATE** <br/>
  📌 SQLD (2023.07)<br/>
  📌 웹디자인기능사 (2021.12)<br/>
